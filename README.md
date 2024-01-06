@@ -6,6 +6,7 @@ shouts out neliz
 
 ## Player UUID to LabyMod profile 
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `/userdata/:dashed_uuid.json`
 
 **Description:** This returns LabyMod user data such as cosmetics, groups, and user role.
@@ -60,6 +61,7 @@ GET /userdata/34e57efa-5783-46c7-a9fc-890296aaba1f.json
 
 ## List of LabyMod Cosmetics
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /cosmetics/index.json`
 
 **Description:** This returns a list of every LabyMod Cosmetic.
@@ -113,18 +115,21 @@ GET /cosmetics/index.json
 
 ## Get Cosmetic Animations
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /cosmetics/:cosmetic_id/animation.json`
 
 **Description:** This returns the animations for a cosmetic.
 
 ## Get Cosmetic Geometry
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /cosmetics/:cosmetic_id/geo.json`
 
 **Description:** This returns the geometry for a cosmetic.
 
 ## List of LabyMod Emotes
 **Subdomain:** `https://neo.labymod.net/`
+
 **Endpoint:** `GET /cosmetics/index.json`
 
 **Description:** This returns a list of every LabyMod Cosmetic.
@@ -169,12 +174,14 @@ GET /cosmetics/index.json
 
 ## Get Emote Animations
 **Subdomain:** `https://neo.labymod.net/`
+
 **Endpoint:** `GET /emotes/:emote_id/animation.json`
 
 **Description:** This returns the animations for a emote.
 
 ## List of LabyMod Sticker Packs
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /stickers.json`
 
 **Description:** This returns a list of every LabyMod Sticker pack.
@@ -211,12 +218,14 @@ GET /stickers.json
 
 ## List of LabyMod Addons & Categories
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /addons.json`
 
 **Description:** This returns a list of every LabyMod Addon and a list of possible categories.
 
 ## Get List of LabyMod Groups
 **Subdomain:** `https://dl.labymod.net/`
+
 **Endpoint:** `GET /groups.json`
 
 **Description:** This returns a list of every LabyMod group.
