@@ -8,7 +8,7 @@ Shouts out Neliz, LabyStudio, Northernside
 ## Player UUID to LabyMod profile 
 **Subdomain:** `https://dl.labymod.net/`
 
-**Endpoint:** `/userdata/:dashed_uuid.json`
+**Endpoint:** `GET /userdata/:dashed_uuid.json`
 
 **Description:** This returns LabyMod user data such as cosmetics, groups, and user role.
 
