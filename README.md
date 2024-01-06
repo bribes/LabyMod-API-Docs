@@ -36,15 +36,10 @@ GET /userdata/34e57efa-5783-46c7-a9fc-890296aaba1f.json
   "f": { // Flatrate
     "e": true
   },
-  "st": { // No clue
-    "p": [
+  "st": { // Stickers
+    "p": [ // Sticker Pack IDs
       1,
-      4,
-      20,
-      6,
-      2,
-      11,
-      5
+      ...
     ]
   },
   "r": { // Role (Outdated use Groups instead)
