@@ -28,7 +28,7 @@ GET /userdata/34e57efa-5783-46c7-a9fc-890296aaba1f.json
     },
     ...
   ],
-  "e": [ // No clue
+  "e": [ // Emote IDs
     4,
     ...
   ],
