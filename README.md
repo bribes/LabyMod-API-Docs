@@ -1,8 +1,9 @@
 # Labymod API Docs
-shouts out neliz
 
 > [!NOTE]
 > This is unofficial Documentation for the LabyMod API and I am in no way associated with LabyMedia, some endpoints may be missing or incorrect.
+
+Shouts out Neliz, LabyStudio, Northernside
 
 ## Player UUID to LabyMod profile 
 **Subdomain:** `https://dl.labymod.net/`
