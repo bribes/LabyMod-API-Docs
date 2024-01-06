@@ -121,7 +121,7 @@ GET /cosmetics/index.json
 **Subdomain:** `https://dl.labymod.net/`
 **Endpoint:** `GET /cosmetics/:cosmetic_id/geo.json`
 
-**Description:** This returns the geomoetry for a cosmetic.
+**Description:** This returns the geometry for a cosmetic.
 
 ## List of LabyMod Emotes
 **Subdomain:** `https://neo.labymod.net/`
