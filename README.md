@@ -33,8 +33,8 @@ GET /userdata/34e57efa-5783-46c7-a9fc-890296aaba1f.json
     4,
     ...
   ],
-  "f": { // Flatrate
-    "e": true // Flatrate emotes
+  "f": { // Flatrates
+    "e": true // Emotes
   },
   "st": { // Stickers
     "p": [ // Sticker Pack IDs
