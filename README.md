@@ -5,7 +5,7 @@
 
 Shouts out Neliz, LabyStudio, Northernside
 
-## Player UUID to LabyMod profile 
+## Player UUID to LabyMod User Data 
 **Subdomain:** `https://dl.labymod.net/`
 
 **Endpoint:** `GET /userdata/:dashed_uuid.json`
