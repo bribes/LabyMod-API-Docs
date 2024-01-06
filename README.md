@@ -248,3 +248,10 @@ GET /groups.json
   ]
 }
 ```
+
+## Player UUID to LabyMod Cape 
+**Subdomain:** `https://dl.labymod.net/`
+
+**Endpoint:** `/capes/:dashed_uuid`
+
+**Description:** This returns an image of a users LabyMod cape.
