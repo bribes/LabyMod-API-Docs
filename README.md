@@ -48,7 +48,7 @@ GET /userdata/34e57efa-5783-46c7-a9fc-890296aaba1f.json
   },
   "r": { // Role
     "i": 25, // Role ID
-    "v": false
+    "v": false // Visibility
   },
   "g": [ // Groups
     {
