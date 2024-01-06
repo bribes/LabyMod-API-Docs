@@ -2,7 +2,7 @@
 shouts out neliz
 
 > [!NOTE]
-> This Documentation is for https://labymod.net/ and in no way associated with LabyMedia, some endpoints may be missing or incorrect.
+> This is unofficial Documentation for the LabyMod API and I am in no way associated with LabyMedia, some endpoints may be missing or incorrect.
 
 ## Player UUID to LabyMod profile 
 **Subdomain:** `https://dl.labymod.net/`
